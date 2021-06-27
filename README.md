@@ -1,5 +1,11 @@
 # TheBotBot
-A simple discord bot, I am learing Discord.js
+*A simple discord bot*
+
+*Tech Stack Used
+ *JavaScript
+ *NodeJS
+ *DiscordJS
+ *OpenWeatherMap (for !weather command)
 
 * Available Commands
 

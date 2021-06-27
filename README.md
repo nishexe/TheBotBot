@@ -16,7 +16,7 @@
 
 * Screenshot of !weather (cityname) command
 
-![availableCommands](https://user-images.githubusercontent.com/61022113/123531101-49613f00-d71f-11eb-810d-d226e0b8125d.png)
+![WeatherFunction](https://user-images.githubusercontent.com/61022113/123531184-f936ac80-d71f-11eb-8e52-e60a6060ad9c.png)
 
 
 

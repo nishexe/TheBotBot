@@ -1,11 +1,11 @@
 # TheBotBot
 *A simple discord bot*
 
-*Tech Stack Used
- *JavaScript
- *NodeJS
- *DiscordJS
- *OpenWeatherMap (for !weather command)
+* Tech Stack Used
+ * JavaScript
+ * NodeJS
+ * DiscordJS
+ * OpenWeatherMap (for !weather command)
 
 * Available Commands
 

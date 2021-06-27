@@ -1,4 +1,4 @@
-# TheBotBot
+# TheBotBot 🤖
 **A simple discord bot**
 
 * Tech Stack Used

@@ -1,7 +1,7 @@
 # TheBotBot 🤖
 **A simple discord bot**
 
-* Tech Stack Used
+* Tech Used
     * JavaScript
     * NodeJS
     * DiscordJS

@@ -10,7 +10,7 @@
 * Available Commands
 
 
-![availableCommands](https://user-images.githubusercontent.com/61022113/123531075-07d09400-d71f-11eb-948e-dd2131ab997c.png)
+![Screenshot (520)](https://user-images.githubusercontent.com/61022113/123631554-81a67180-d834-11eb-9d4d-799e485cc3bb.png)
 
 
 

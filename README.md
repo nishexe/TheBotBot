@@ -5,7 +5,6 @@
     * JavaScript
     * NodeJS
     * DiscordJS
-    * OpenWeatherMap (for !weather command)
 
 * Available Commands
 

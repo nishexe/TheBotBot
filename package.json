@@ -4,7 +4,6 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/bot.js",
     "dev": "nodemon ./src/bot.js"
   },
@@ -14,6 +13,7 @@
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "weather-js": "^2.0.0"
   }
 }

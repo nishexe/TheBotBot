@@ -24,7 +24,7 @@ module.exports = {
                         userChoiceEmoji = "📃"
                         botChoiceEmoji = userChoiceEmoji
                     }
-                    if(userChoice === 'r'){
+                    if(userChoice === 's'){
                         userChoiceEmoji = "✂️"
                         botChoiceEmoji = userChoiceEmoji
                     }

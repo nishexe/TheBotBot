@@ -11,7 +11,7 @@ module.exports = {
             string = (`**🪙  Coin Tossed!, *TAILS.*  🪙**`)
         }
         const embed = new Discord.MessageEmbed()
-	    .setColor('#CD113B')
+	    .setColor('#ffc35b')
 	    .setTitle(string)
         message.channel.send(embed);
     }

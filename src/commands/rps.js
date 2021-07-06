@@ -16,7 +16,19 @@ module.exports = {
                 let userChoiceEmoji
                 let botChoiceEmoji
                 if(userChoice === botChoice){
-                winStatus = "**Its a draw!!**"
+                    if(userChoice === 'r'){
+                        userChoiceEmoji = "🪨"
+                        botChoiceEmoji = userChoiceEmoji
+                    }
+                    if(userChoice === 'p'){
+                        userChoiceEmoji = "📃"
+                        botChoiceEmoji = userChoiceEmoji
+                    }
+                    if(userChoice === 'r'){
+                        userChoiceEmoji = "✂️"
+                        botChoiceEmoji = userChoiceEmoji
+                    }
+                    winStatus = "**Its a draw!!**"
                 }
                 else if(userChoice === 'r'){
                     userChoiceEmoji = "🪨"
@@ -51,12 +63,10 @@ module.exports = {
                         winStatus = "**You Win!**"
                     }
                 }
-                setTimeout(()=>{
-                    message.channel.send(userChoiceEmoji)
-                    message.channel.send('**  ** *🆚*')
-                    message.channel.send(botChoiceEmoji)
-                    message.reply(winStatus)
-                },10)
+                message.channel.send(userChoiceEmoji)
+                message.channel.send('**   ** *🆚*')
+                message.channel.send(botChoiceEmoji)
+                message.reply(winStatus) 
             }
             else{
                 message.channel.send("**Please enter a valid choice!**")

@@ -2,11 +2,13 @@ module.exports = {
     name: "cuss",
     async run(bot, message, args){
         const cussArr = [
-            'STFU',
-            'F OFF',
-            'A HOLE',
-            'GTFO',
-            'SUCK A POPSICLE'   
+            'Are you dumb?',
+            'Man! Get out of here..!',
+            'I hate you.',
+            'Shut Upppp!',
+            'Boohooo!!',
+            'Oh piss off.!',
+            'lololololololl'  
         ]
         const idx = Math.floor(Math.random()* cussArr.length)
         const cussString = cussArr[idx]

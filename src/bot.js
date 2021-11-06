@@ -14,7 +14,7 @@ bot.on('ready', ()=>{
     console.log(`${bot.user.tag} has logged in!`)
     bot.user.setActivity("with depression", {
         type: "PLAYING",
-      })
+    })
 })
 bot.on("message", async message => {
   if(message.author.bot) return;

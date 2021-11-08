@@ -13,7 +13,7 @@ for(const file of commandFiles){
 bot.on('ready', ()=>{
     console.log(`${bot.user.tag} has logged in!`)
     bot.user.setActivity("with depression!", {
-        type: "PLAYING",
+        type: "LISTENING",
     })
 })
 bot.on("message", async message => {
